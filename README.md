@@ -1,4 +1,4 @@
-#<img src="https://www.unnaturalnature.com/uothief/UO_Sextant/sextant_logo_splash.png" />
+<img src="https://www.unnaturalnature.com/uothief/UO_Sextant/sextant_logo_splash.png" />
 
 UO Sextant is A Win Form App created in Visual Studios with Visual Basic.
 It is a tool for the classic game, Ultima Online.
