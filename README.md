@@ -8,7 +8,7 @@ UO Sextant allows players to mark a location and save the coordinates with whate
 They can then ask for directions to that location, and UO Sextant will point them in that direction.
 
 User generated files are created and stored at:
-                            "C:\UO Sextant\{player's shard of choice represented numerically}\\{facet}.txt"
+                            "C:\UO Sextant\\{player's shard of choice represented numerically}\\{facet}.txt"
 
 The App will only operate if the Classic Client is running, and it is run with Administrative Permissions.
 If the app cannot get a handle on the UO Client, it will self terminate without notification.
